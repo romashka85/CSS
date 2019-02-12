@@ -1,0 +1,21 @@
+
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+h2 {
+    color: #74276D;
+    text-align: center;
+    border: 5px solid rgba(185, 70, 176, 0.5);
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+li  {
+    list-style: none;
+    display: inline-block;
+ 
+}
