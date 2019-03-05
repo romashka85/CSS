@@ -1,21 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
 
-body {
-    background-image: url('background.jpg');
-    background-size: cover;
-}
-h2 {
-    color: #74276D;
+    }
+
+h1 {
+    font-family: Apple Chancery, cursive;
+    font-size: 3em;
+    line-height: 1.8em;
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+    width: 400px;
     text-align: center;
-    border: 5px solid rgba(185, 70, 176, 0.5);
-    cursor: pointer;
+}
+img {
+    width: 450px;
+    height: 300px;
+    margin: 20px;
 }
 
-p {
-    color: pink;
-}
-
-li  {
-    list-style: none;
-    display: inline-block;
- 
-}
