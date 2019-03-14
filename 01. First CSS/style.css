@@ -19,5 +19,10 @@ img {
     width: 450px;
     height: 300px;
     margin: 20px;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
 
