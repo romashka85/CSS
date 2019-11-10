@@ -13,8 +13,8 @@ Cascading Style Sheets at the most basic level it indicates that the order of CS
 element
 element, element
 element element
-element > element
-element + element
+element > element (parent element)
+element + element (next element)
 :hover
 :last-child
 :first-child
